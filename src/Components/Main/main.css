@@ -1,0 +1,13 @@
+.block-1 img{
+    width: 60%;
+    border-radius: 110px;
+    padding: 15px;
+    
+}
+.block-1{
+    box-shadow: inset 10px 10px 0px 0px rgba(243, 241, 241, 0.5);
+ width: 20%;
+ height: 200px;
+ margin-left: 150px;
+
+}
