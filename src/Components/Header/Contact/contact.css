@@ -1,0 +1,23 @@
+.contact-title {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    color: beige;
+    font-family: "Poiret One", serif;
+    font-size: 50px;
+    align-content: center;
+}
+.contact-card{
+    display: flex;
+    align-items: center;
+}
+.contact-card .pic{
+    width: 15%;
+}
+.contact-title .name {
+    padding-left: 100px;
+}
+.contact-title .phone {
+    padding-left: 100px;
+   
+}
