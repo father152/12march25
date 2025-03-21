@@ -13,11 +13,11 @@
 }
 .contact-card .pic{
     width: 15%;
+    border-radius: 50%;
 }
 .contact-title .name {
     padding-left: 100px;
 }
 .contact-title .phone {
     padding-left: 100px;
-   
 }
