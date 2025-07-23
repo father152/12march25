@@ -6,7 +6,7 @@
 }
 .girl {
     
-    box-shadow: inset 4px 4px 40px 5px white;
+    box-shadow: inset 4px 4px 40px 5px rgb(110, 110, 110);
     border-radius: 130px;
 }
 .girl img {
