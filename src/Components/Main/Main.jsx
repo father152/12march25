@@ -8,12 +8,9 @@ function Main() {
       <h2>Main</h2>
       <div className="container-main">
         <div className="block-1">
-
-
           <div className="girl">
-          <img src={blockimg1} alt=""></img>
+            <img src={blockimg1} alt=""></img>
           </div>
-
           <h1>never give up</h1>
         </div>
       </div>
