@@ -1,9 +1,10 @@
-import React from 'react'
 import "./about.css"
+
+
 function About() {
   return (
     <div className='about'>
-    <h2>About</h2>
+    <h2>Steps of our path</h2>
     </div>
   )
 }
