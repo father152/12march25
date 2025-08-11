@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
 import { Link } from "react-router-dom";
-import logo from "../img/logo 2.png"
+import logo from "../img/pexels-alex-andrews-271121-816622.jpg"
 
 
 function Header() {
