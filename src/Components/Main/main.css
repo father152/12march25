@@ -5,6 +5,8 @@
     justify-content: space-between;
     align-items: center;
 }
+
+
 .girl {
     box-shadow: 0 0 30px white;
     border-radius: 150px;
@@ -31,6 +33,7 @@ h1 {
     color: rgb(61, 60, 59);
     text-shadow: 5px 5px 5px white;
     margin-right: 80px;
+    padding-bottom: 40px;
 }
 .block-2 {
     width: 80%;
@@ -46,5 +49,6 @@ h1 {
     font-size: 25px;
     color: rgb(61, 60, 59);
     text-shadow: 2px 2px 1px white;
-    
+    text-align: justify;
+    padding-right: 20px;
 }
