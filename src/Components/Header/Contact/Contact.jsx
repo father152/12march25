@@ -17,13 +17,13 @@ function Contact() {
     <div className="contact">
       <h2>Contact</h2>
       <div className="contact-title">
-        <Staff image={cheef} name="Pit Cgoter" phone="+56 45654 1321 54" />
+        <Staff image={cheef} name="Pit Cvoter" phone="+56 45654 1321 54" />
       </div>
       <div className="contact-title">
-        <Staff image={cheef} name="Pit Cgoter" phone="+56 45654 1321 54" />
+        <Staff image={cheef} name="Pit Cvoter" phone="+56 45654 1321 54" />
       </div>
       <div className="contact-title">
-        <Staff image={cheef} name="Pit Cgoter" phone="+56 45654 1321 54" />
+        <Staff image={cheef} name="Pit Cvoter" phone="+56 45654 1321 54" />
       </div>
     </div>
   );
